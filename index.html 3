@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Text field</h2>
+<p>The <strong>jayme</strong> fale sobre voçê:</p>
+
+<form action="/action_page.php">
+  <label for="fname">jayme pedro Ferreira:</label><br>
+  <input type="text" id="fname" name ="fname"><br>
+  <label for="lname"> data de nascimento:</label><br>
+  <input type="text" id="lname" name="lname"><br><br>
+  <input type="submit" value="Submit">
+</form>
+
+<p>algo sodre jayme.</p>
+<p>O Jayme Pedro Ferreira é uma pessoa que ama uma aventura com adrenalina.</p>
+
+</body>
+</html>
